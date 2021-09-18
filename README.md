@@ -2,7 +2,7 @@
 This guide lists a projects as concepts or WIPs, and related resources
 
 ### Integrations
-* REST API, skills required: BACKEND, TRADING
+* REST API
     * https://github.com/microwavedcola1/mango-v3-service/blob/master/mango-service-v3/README.md
 ### Trading products
 * dedicated borrowing+lending app on top of mango markets
