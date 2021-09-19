@@ -20,7 +20,7 @@ This guide lists a projects as concepts or WIPs, and related resources
 * market making funds
     * need to declutter the steps to run mm bots for everyone
 * mango perp funds
-    * decentralized funds trading solely trading on mango markets
+    * decentralized funds trading solely on mango markets
 
 
 ### Decentralization
