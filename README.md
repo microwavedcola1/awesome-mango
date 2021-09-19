@@ -17,7 +17,13 @@ This guide lists a projects as concepts or WIPs, and related resources
 * index funds
     * a very good example is piedao
 * new derivatives: Quarterly Futures, Options
+* market making funds
+    * need to declutter the steps to run mm bots for everyone
+* mango perp funds
+    * decentralized funds trading solely trading on mango markets
+
 
 ### Decentralization
 * incentive model for gui hosters
 * incentive model for keepers / cranks (possibly in collaboration with serum)
+* fee sharing model to encourage protocols to build over mango markets
