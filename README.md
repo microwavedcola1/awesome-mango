@@ -21,7 +21,8 @@ This guide lists a projects as concepts or WIPs, and related resources
     * need to declutter the steps to run market making bots for everyone
 * mango perp funds
     * decentralized funds trading solely on mango markets
-
+### Misc
+* exchanging deposited tokens for proxy tokens which could be used for staking, governance, etc....needs to be be though how this would work with liquidations
 
 ### Decentralization
 * incentive model for gui hosters
