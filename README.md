@@ -1,3 +1,7 @@
+# Reading material
+* [Technical Intro to Mango Markets](https://marred-ragamuffin-111.notion.site/Technical-Intro-to-Mango-Markets-15a650e4799e41c8bfc043fbf079e6f9)
+
+
 # Project idea list
 This guide lists a projects as concepts or WIPs, and related resources
 
