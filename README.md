@@ -32,3 +32,4 @@ This guide lists a projects as concepts or WIPs, and related resources
 * incentive model for gui hosters
 * incentive model for keepers / cranks (possibly in collaboration with serum)
 * fee sharing model to encourage protocols to build over mango markets
+
